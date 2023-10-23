@@ -39,4 +39,4 @@ setInterval(() => {
     minutes.innerHTML = m
     seconds.innerHTML = s
     ampm.innerHTML = am
-}, 1000);
+});
